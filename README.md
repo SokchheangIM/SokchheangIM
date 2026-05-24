@@ -10,43 +10,31 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<br/>
 
 <div align="center">
 
-### 👾 WHO AM I
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/>
 
+<br/><br/>
 
+`🧑‍💻 Aspiring Backend Engineer` &nbsp;·&nbsp; `🐍 Python & Gen AI` &nbsp;·&nbsp; `🐧 Linux Mint`
 
-![Role](https://img.shields.io/badge/🧑‍💻%20Role-Aspiring%20Backend%20Engineer-00ff88?style=for-the-badge&labelColor=0d1117)
+<br/>
 
-
-
-
-![Focus](https://img.shields.io/badge/🐍%20Focus-Python%20·%20Gen%20AI%20·%20AI%20Tooling-00b4d8?style=for-the-badge&labelColor=0d1117)
-
-
-
-
-
-![Learning](https://img.shields.io/badge/📚%20Learning-Problem%20Solving%20·%20Backend%20·%20APIs-7b2ff7?style=for-the-badge&labelColor=0d1117)
-
-
-
-
-![OS](https://img.shields.io/badge/🐧%20OS-Linux%20Mint-00ff88?style=for-the-badge&labelColor=0d1117)
-
-
-
-
-
-![Editor](https://img.shields.io/badge/✏️%20Editor-VS%20Code-00b4d8?style=for-the-badge&labelColor=0d1117)
-
-
+> *Building AI-powered tools · Exploring Backend Dev · Problem Solving every day*
 
 </div>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
 
