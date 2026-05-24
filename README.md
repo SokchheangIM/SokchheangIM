@@ -12,15 +12,34 @@
 
 ---
 
+<div align="center">
 
-class Freeman:
-    role       = "Aspiring Backend Engineer"
-    focus      = ["Python", "Generative AI", "AI Tooling"]
-    learning   = ["Problem Solving", "Backend Dev", "APIs"]
-    os         = "Linux Mint 🐧"
-    editor     = "VS Code"
-    goal       = "Junior Backend Engineer → AI Tooling Specialist"
+### 👾 WHO AM I
 
+<table>
+  <tr>
+    <td>🧑‍💻 Role</td>
+    <td><b>Aspiring Backend Engineer</b></td>
+  </tr>
+  <tr>
+    <td>🐍 Focus</td>
+    <td>Python · Generative AI · AI Tooling</td>
+  </tr>
+  <tr>
+    <td>📚 Learning</td>
+    <td>Problem Solving · Backend Dev · APIs</td>
+  </tr>
+  <tr>
+    <td>🐧 OS</td>
+    <td>Linux Mint</td>
+  </tr>
+  <tr>
+    <td>✏️ Editor</td>
+    <td>VS Code</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -29,21 +48,6 @@ class Freeman:
 ### ⚡ TECH STACK
 
 <img src="https://skillicons.dev/icons?i=python,javascript,html,css,vscode,github,bash,linux&theme=dark&perline=8"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🖥️ CURRENT MISSION
-
-| Status | Area | Detail |
-|--------|------|--------|
-| 🔥 Active | Python | OOP · APIs · CLI Tools |
-| 🤖 Exploring | Gen AI | Anthropic API · AI Tooling |
-| 📡 Next | Backend | FastAPI · SQL · REST APIs |
-| 🎯 Target | Career | Junior Backend + AI Tooling Role |
 
 </div>
 
