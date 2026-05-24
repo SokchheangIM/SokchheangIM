@@ -15,7 +15,8 @@
 <br/>
 
 <div align="center">
-## 👾 WHO AM I
+
+### 👾 WHO AM I
 
 <img src="https://skillicons.dev/icons?i=python" width="65"/>
 &nbsp;&nbsp;&nbsp;
@@ -29,14 +30,13 @@
 
 <br/>
 
-> *Generative AI · Exploring Backend Dev · Problem Solving every day*
+> *Building AI-powered tools · Exploring Backend Dev · Problem Solving every day*
 
 </div>
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 <div align="center">
 
 ### ⚡ TECH STACK
