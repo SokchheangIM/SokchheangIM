@@ -17,7 +17,7 @@
 class Freeman:
     name     = "Sokchheang Im"
     alias    = "Freeman"
-    location = "Cambodia 🇰🇭"
+    
 
     focus    = [
         "Programming Fundamentals",
@@ -28,8 +28,8 @@ class Freeman:
 
     stack    = {
         "languages" : ["Python", "JavaScript"],
-        "tools"     : ["VS Code", "Linux", "Git"],
-        "learning"  : ["FastAPI", "SQL", "Anthropic API"],
+        "tools"     : ["VS Code", "Linux Mint", "Git"],
+        "learning"  : ["SQL", "Anthropic API"],
     }
 
     def greet(self):
@@ -68,7 +68,7 @@ class Freeman:
 
 
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-0d1117?style=for-the-badge&logo=linuxmint&logoColor=87CF3E)
 
 
 
@@ -78,11 +78,6 @@ class Freeman:
 
 
 **Currently Learning**
-
-
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-
 
 
 
@@ -117,9 +112,7 @@ class Freeman:
 Python Fundamentals   ████████████████████░░░░   80%
 Problem Solving       ██████████████░░░░░░░░░░   60%
 Git & GitHub          ████████░░░░░░░░░░░░░░░░   35%
-FastAPI               ████░░░░░░░░░░░░░░░░░░░░   15%
 SQL Basics            ███░░░░░░░░░░░░░░░░░░░░░   10%
-` ` `
 
 ---
 
