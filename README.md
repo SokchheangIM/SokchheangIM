@@ -28,7 +28,7 @@
 
 <br/>
 
-> *Building AI-powered tools · Exploring Backend Dev · Problem Solving every day*
+> *Generative AI · Exploring Backend Dev · Problem Solving every day*
 
 </div>
 
