@@ -14,7 +14,6 @@
 
 <img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
 class Freeman:
     name     = "Sokchheang Im"
     alias    = "Freeman"
@@ -35,7 +34,6 @@ class Freeman:
 
     def greet(self):
         return "Hello, World! 👋"
-` ` `
 
 <br clear="right"/>
 
@@ -115,7 +113,7 @@ class Freeman:
 
 ## 🎯 Current Focus
 
-```text
+
 Python Fundamentals   ████████████████████░░░░   80%
 Problem Solving       ██████████████░░░░░░░░░░   60%
 Git & GitHub          ████████░░░░░░░░░░░░░░░░   35%
