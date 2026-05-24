@@ -14,7 +14,6 @@
 
 <img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<pre>
 class Freeman:
     name     = "Sokchheang Im"
     alias    = "Freeman"
@@ -30,7 +29,7 @@ class Freeman:
     }
     def greet(self):
         return "Hello, World! 👋"
-</pre>
+
 
 <br clear="right"/>
 
