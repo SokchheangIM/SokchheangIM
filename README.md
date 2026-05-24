@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-`🧑‍💻 Aspiring Backend Engineer` &nbsp;·&nbsp; `🐍 Python & Gen AI` &nbsp;·&nbsp; `🐧 Linux Mint`
+`🧑‍💻 Aspiring Engineer` &nbsp;·&nbsp; `🐍 Python & Gen AI` &nbsp;·&nbsp; `🐧 Linux Mint`
 
 <br/>
 
