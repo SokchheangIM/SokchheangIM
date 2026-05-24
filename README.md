@@ -16,28 +16,33 @@
 
 ### 👾 WHO AM I
 
-<table>
-  <tr>
-    <td>🧑‍💻 Role</td>
-    <td><b>Aspiring Backend Engineer</b></td>
-  </tr>
-  <tr>
-    <td>🐍 Focus</td>
-    <td>Python · Generative AI · AI Tooling</td>
-  </tr>
-  <tr>
-    <td>📚 Learning</td>
-    <td>Problem Solving · Backend Dev · APIs</td>
-  </tr>
-  <tr>
-    <td>🐧 OS</td>
-    <td>Linux Mint</td>
-  </tr>
-  <tr>
-    <td>✏️ Editor</td>
-    <td>VS Code</td>
-  </tr>
-</table>
+
+
+![Role](https://img.shields.io/badge/🧑‍💻%20Role-Aspiring%20Backend%20Engineer-00ff88?style=for-the-badge&labelColor=0d1117)
+
+
+
+
+![Focus](https://img.shields.io/badge/🐍%20Focus-Python%20·%20Gen%20AI%20·%20AI%20Tooling-00b4d8?style=for-the-badge&labelColor=0d1117)
+
+
+
+
+
+![Learning](https://img.shields.io/badge/📚%20Learning-Problem%20Solving%20·%20Backend%20·%20APIs-7b2ff7?style=for-the-badge&labelColor=0d1117)
+
+
+
+
+![OS](https://img.shields.io/badge/🐧%20OS-Linux%20Mint-00ff88?style=for-the-badge&labelColor=0d1117)
+
+
+
+
+
+![Editor](https://img.shields.io/badge/✏️%20Editor-VS%20Code-00b4d8?style=for-the-badge&labelColor=0d1117)
+
+
 
 </div>
 
