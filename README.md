@@ -1,32 +1,62 @@
-<h1 align="center">Hi, I'm Freeman 👋</h1>
-<h3 align="center">Aspiring Engineer · Python · Generative AI</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,100:00b4d8&height=200&section=header&text=Freeman&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Aspiring%20Engineer&descSize=20&descAlignY=75&descAlign=50" width="100%"/>
 
-<br/>
+<div align="center">
 
-## 🙋 About Me
+[
 
-- 🐍 Currently learning **Python** & **Problem Solving**
-- 🤖 Exploring **Generative AI** and building AI-powered tools
-- 🐧 Daily driving **Linux Mint** as my dev environment
-- 🎯 Goal: Backend Developer specializing in AI Tooling
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Generative+AI+Explorer+%F0%9F%A4%96;Backend+Engineer+in+Progress+%E2%9A%99%EF%B8%8F;Building+on+Linux+Mint+%F0%9F%90%A7)
 
-<br/>
+](https://git.io/typing-svg)
 
-## 🛠️ Tech Stack
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,vscode,github,bash,linux" />
-</p>
+---
 
-<br/>
 
-## 📊 GitHub Stats
+class Freeman:
+    role       = "Aspiring Backend Engineer"
+    focus      = ["Python", "Generative AI", "AI Tooling"]
+    learning   = ["Problem Solving", "Backend Dev", "APIs"]
+    os         = "Linux Mint 🐧"
+    editor     = "VS Code"
+    goal       = "Junior Backend Engineer → AI Tooling Specialist"
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+---
+
+<div align="center">
+
+### ⚡ TECH STACK
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,vscode,github,bash,linux&theme=dark&perline=8"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🖥️ CURRENT MISSION
+
+| Status | Area | Detail |
+|--------|------|--------|
+| 🔥 Active | Python | OOP · APIs · CLI Tools |
+| 🤖 Exploring | Gen AI | Anthropic API · AI Tooling |
+| 📡 Next | Backend | FastAPI · SQL · REST APIs |
+| 🎯 Target | Career | Junior Backend + AI Tooling Role |
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+![snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:00ff88&height=100&section=footer" width="100%"/>
