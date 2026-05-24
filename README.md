@@ -30,7 +30,7 @@
 
 <br/>
 
-> *Building AI-powered tools · Exploring Backend Dev · Problem Solving every day*
+> *Coding· Generative AI· Exploring Technology · Problem Solving every day*
 
 </div>
 
