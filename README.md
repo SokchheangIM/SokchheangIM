@@ -4,9 +4,9 @@
 
 [
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=Learning+to+Build%2C+Building+to+Learn;Python+%7C+Problem+Solving+%7C+Linux;Aspiring+Backend+%2B+AI+Tooling+Dev;01001000+01100101+01101100+01101100+01101111)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=Learning+to+Build%2C+Building+to+Learn;Python+%7C+Problem+Solving+%7C+Linux;Aspiring+Backend+%2B+AI+Tooling+Dev)
 
-
+](https://git.io/typing-svg)
 
 </div>
 
@@ -14,26 +14,19 @@
 
 <img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+<pre>
 class Freeman:
     name     = "Sokchheang Im"
     alias    = "Freeman"
-    
-
-    focus    = [
-        "Programming Fundamentals",
-        "Problem Solving",
-        "Backend Development",
-        "AI Tooling",
-    ]
-
+    focus    = ["Programming Fundamentals", "Problem Solving", "Backend Development", "AI Tooling"]
     stack    = {
         "languages" : ["Python", "JavaScript"],
         "tools"     : ["VS Code", "Linux Mint", "Git"],
-        "learning"  : ["SQL", "Anthropic API"],
+        "learning"  : ["Anthropic API"],
     }
-
     def greet(self):
         return "Hello, World! 👋"
+</pre>
 
 <br clear="right"/>
 
@@ -81,11 +74,6 @@ class Freeman:
 
 
 
-![PostgreSQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-
-
-
 ![Anthropic](https://img.shields.io/badge/Anthropic%20API-0d1117?style=for-the-badge&logo=anthropic&logoColor=00d4ff)
 
 
@@ -108,11 +96,12 @@ class Freeman:
 
 ## 🎯 Current Focus
 
-
+<pre>
 Python Fundamentals   ████████████████████░░░░   80%
 Problem Solving       ██████████████░░░░░░░░░░   60%
 Git & GitHub          ████████░░░░░░░░░░░░░░░░   35%
-SQL Basics            ███░░░░░░░░░░░░░░░░░░░░░   10%
+Anthropic API         ███░░░░░░░░░░░░░░░░░░░░░   10%
+</pre>
 
 ---
 
