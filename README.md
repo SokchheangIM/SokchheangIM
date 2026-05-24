@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=Learning+to+Build%2C+Building+to+Learn;Python+%7C+Problem+Solving+%7C+Linux;Aspiring+Backend+%2B+AI+Tooling+Dev;01001000+01100101+01101100+01101100+01101111)
 
-](https://git.io/typing-svg)
+
 
 </div>
 
